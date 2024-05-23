@@ -1,0 +1,16 @@
+fatec\ams\parkingBillCalculation\heritage\BillVehicleHoursDaysMonths.class
+fatec\ams\parkingBillCalculation\vehicle\Truck.class
+fatec\ams\parkingBillCalculation\strategy\BillVehicleHoursDaysMonths.class
+fatec\ams\parkingBillCalculation\heritage\BillTruckHoursDaysMonths.class
+fatec\ams\parkingBillCalculation\strategy\Strategy.class
+fatec\ams\parkingBillCalculation\heritage\BillBusHoursDaysMonths.class
+fatec\ams\parkingBillCalculation\ParkingBillCalculation.class
+fatec\ams\parkingBillCalculation\strategy\BillBusHoursDaysMonths.class
+fatec\ams\parkingBillCalculation\heritage\ParkingBill.class
+fatec\ams\parkingBillCalculation\strategy\CalculateBill.class
+fatec\ams\parkingBillCalculation\strategy\BillTruckHoursDaysMonths.class
+fatec\ams\parkingBillCalculation\utils\TimesInMilliseconds.class
+fatec\ams\parkingBillCalculation\strategy\ParkingBill.class
+fatec\ams\parkingBillCalculation\vehicle\Vehicle.class
+fatec\ams\parkingBillCalculation\vehicle\Bus.class
+fatec\ams\parkingBillCalculation\heritage\Heritage.class
